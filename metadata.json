@@ -1,0 +1,6 @@
+{
+  "name": "Shadows of Aethelgard: Runecraft & Ruin",
+  "description": "Dark fantasy 2.5D pixel art adventure with puzzles, runic card combat, dynamic weather, moral choices, and offline PWA storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

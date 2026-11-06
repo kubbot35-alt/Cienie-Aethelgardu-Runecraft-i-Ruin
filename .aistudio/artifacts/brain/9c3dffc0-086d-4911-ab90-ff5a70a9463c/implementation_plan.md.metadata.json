@@ -1,0 +1,6 @@
+{
+  "summary": "Plan implementacji kompleksowej gry przygodowej dark fantasy w stylu 2.5D pixel art 'Shadows of Aethelgard'. Zawiera architekturę czystej domeny (SOLID/Clean Architecture, limity SRP), silnik eksploracji i łamigłówek, system dynamicznej pogody, drzewo dialogowe z wieloma zakończeniami, taktyczną walkę turową opartą na kartach run, rzemiosło (crafting), zarządzanie zasobami, pełne wsparcie PWA offline (IndexedDB), logowanie biometryczne (WebAuthn) i 2FA, zgodność z RODO, eksport CSV, wsparcie dla gamepadów oraz wielojęzyczność (PL, EN, IT).",
+  "updatedAt": "2026-11-06T12:34:27.402252589Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
