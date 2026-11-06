@@ -1,6 +1,6 @@
 {
-  "summary": "Plan implementacji kompleksowej gry przygodowej dark fantasy w stylu 2.5D pixel art 'Shadows of Aethelgard'. Zawiera architekturę czystej domeny (SOLID/Clean Architecture, limity SRP), silnik eksploracji i łamigłówek, system dynamicznej pogody, drzewo dialogowe z wieloma zakończeniami, taktyczną walkę turową opartą na kartach run, rzemiosło (crafting), zarządzanie zasobami, pełne wsparcie PWA offline (IndexedDB), logowanie biometryczne (WebAuthn) i 2FA, zgodność z RODO, eksport CSV, wsparcie dla gamepadów oraz wielojęzyczność (PL, EN, IT).",
-  "updatedAt": "2026-11-06T12:34:27.402252589Z",
+  "summary": "Plan przebudowy gry na pełnoprawny trójwymiarowy otwarty świat wokselowy w stylu Minecraft (Three.js). Obejmuje widok pierwszoosobowy (FPV), proceduralne generowanie terenu (wzgórza, trawa, ziemia, kamień, drzewa, rudy, woda), niszczenie i stawianie kloców w czasie rzeczywistym z celownikiem, animowaną rękę postaci, HUD (serca, głód, 9-slotowy hotbar), system rzemiosła (crafting 2x2 i 3x3), cykl dnia i nocy, proceduralne audio Web Audio API, zapis świata w IndexedDB oraz sterowanie mobilne i myszką (PointerLock).",
+  "updatedAt": "2026-11-06T12:59:41.571694858Z",
   "requestFeedback": true,
   "userFacing": true
 }
